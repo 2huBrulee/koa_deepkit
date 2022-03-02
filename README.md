@@ -1,7 +1,3 @@
-# BOILERPLATE
+# KOA + DEEPKIT
 
-- Node 16
-- Koa
-- SWC
-
-Made by 2hubrulee
+`pnpm run docker:start`
